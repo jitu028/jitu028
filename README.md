@@ -3,9 +3,9 @@
 
 **A Cloud enthusiast ☁️, Kubernetes ☸, DevOps, AI🧠/ML👨‍💻, Data 📊, 👨‍🔧 from Pune 🌉, India.**
 
-**Google Cloud Architect, Technical Content Writer on Medium (Google Cloud Community Publications), Certified in 10x GCP, 2xAWS, 3xAzure, terraform, Chaos Engineering.**
+**Google Cloud Architect, Technical Content Writer on Medium (Google Cloud Community Publications), Certified in 10x GCP, 2xAWS, 3xAzure, terraform, ITIL4, Chaos Engineering.**
 
-**Active member @Google Cloud Community, Pune, Mentor@Topmate, Coach, Speaker.**
+**Active member @Google Cloud Community, Pune, Technical Content Creator@Medium, Mentor@Topmate, Coach, Speaker, YouTuber.**
 
 **Opinions are my own and not the views of my employer.**
 
