@@ -19,6 +19,8 @@
 🔭 I’m currently working on on-Prem workload migration to Google Cloud, Speaking engagements, codings, technical writings, POC creation, a few more cloud certification exams : )
 
 
+
+
 **2023 Accomplishments:**
 
 2023-01: Delivered a talk on **Navigating the Cloud: Unlocking the Potential of Google Cloud Certifications** at GDG Cloud Kolkata [Event URL](https://gdg.community.dev/events/details/google-gdg-cloud-kolkata-presents-jan-meet-career-in-cloud/)
@@ -26,6 +28,8 @@
 2023-01: Got acknowledged in the book **Google Cloud Platform All-In-One Guide** by author **Praveen Kukreti** for my contribution to draft last few chapters and working on additional chapters based on our discussions [Book URL](https://www.amazon.in/Google-Cloud-Platform-All-Guide/dp/9355513321/ref=sr_1_1?keywords=google+cloud+all+in+one+guide&qid=1678041062&sprefix=google+cloud+all+in+one%2Caps%2C191&sr=8-1/)
 
 2023-02: Delivered a talk on **Cloudify Your Infrastructure - Best Practices and Demo of GCP Landing Zone** at GDG Cloud Pune [Event URL](https://gdg.community.dev/events/details/google-gdg-cloud-pune-presents-road-to-google-developers-certification-google-cloud/)
+
+
 
 
 **2022 Accomplishments:**
