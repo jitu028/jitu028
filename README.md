@@ -15,11 +15,11 @@
 **Opinions are my own and not the views of my employer.**
 
 
-**Follow me on LinkedIn** - Jitendra Gupta - [Follow me on LinkedIn](https://www.linkedin.com/in/jitu028/) : 10K+ followers
+**Follow me on LinkedIn** - Jitendra Gupta - [Follow me on LinkedIn](https://www.linkedin.com/in/jitu028/) : 11K+ followers
 
-**Follow me on Medium** - Jitendra Gupta - [Follow me on Medium](https://medium.com/@jitu028/) : 335+ followers
+**Follow me on Medium** - Jitendra Gupta - [Follow me on Medium](https://medium.com/@jitu028/) : 387+ followers
 
-**Subscribe to My YouTube Channel** - Jitendra Gupta - [my YouTube Link](https://www.youtube.com/@googlecloudarchitect/) : 260+ followers
+**Subscribe to My YouTube Channel** - Jitendra Gupta - [my YouTube Link](https://www.youtube.com/@googlecloudarchitect/) : 412+ followers
 
 🔭 I’m currently working on on-Prem workload migration to Google Cloud, Speaking engagements, codings, technical writings, POC creation, a few more cloud certification exams : )
 
